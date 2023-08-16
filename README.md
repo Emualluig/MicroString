@@ -3,4 +3,5 @@
 
 # TODO:
 - [ ] Testing
+- [ ] Implement most common string methods
 - [ ] Clean up
